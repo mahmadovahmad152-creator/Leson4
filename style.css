@@ -194,3 +194,11 @@ body {
     gap: 50px;
     margin-left: 150px;
 }
+.sim8{
+    width: 200px;
+    height: 50px;
+    margin-top: 600px;
+    margin-left: -750px;
+    color: #fff;
+    background-color: #1A3E3E;
+}
