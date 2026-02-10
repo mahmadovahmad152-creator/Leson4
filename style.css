@@ -156,3 +156,41 @@ body {
 .sim1{
     margin-top: -120px;
 }
+.sim2{
+    color: #F2BE22;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.sim3{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10px;
+}
+.sim4{
+    margin-top: 40px;
+}
+.sim5{
+    margin-top: -60px;
+    margin-left: 20px;
+    font-size: 25px;
+    color: #fff;
+}
+.sim6{
+    margin-left: 20px;
+    font-size: 20px;
+    color: #fff;
+
+}
+.sim7{
+    margin-left: 310px;
+    margin-top: -40px;
+    font-size: 25px;
+    color: #fff;
+}
+.z1{
+    display: flex;
+    gap: 50px;
+    margin-left: 150px;
+}
