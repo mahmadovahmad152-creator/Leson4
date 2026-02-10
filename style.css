@@ -62,3 +62,35 @@ body {
   border-radius: 8px;
   background: #fff;
 }
+.box1{
+    margin-top: 190px;
+    margin-left: 100px;
+}
+.box2{
+    position: absolute;
+    margin-left: -190px;
+    margin-top: 300px;
+}
+.box3{
+    color: #F2BE22;
+    font-size: 25px;
+    margin-left: 870px;
+    margin-top: -290px;
+}
+.box4{
+    margin-left: 870px;
+    font-size: 30px;
+}
+.box5{
+    margin-left: 870px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+.box6{
+    width: 200px;
+    height: 40px;
+    margin-left: 870px;
+    margin-top: 50px;
+    background-color: #1A3E3E;
+    color: #fff;
+}
