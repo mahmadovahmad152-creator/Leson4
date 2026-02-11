@@ -347,3 +347,229 @@ margin-top: 20px;
 .c9 p{
 margin-top: 20px;
 }
+
+
+@media (max-width: 510px) {
+
+
+  .a1 {
+    height: 70vh;
+    object-fit: cover;
+  }
+
+  .a2 {
+    position: absolute;
+    margin-left: -380px;
+    margin-top: 20px;
+    width: 120px;
+  }
+.box1{
+    display: none;
+    
+}
+.box2{
+    display: none;
+}
+  .a3 {
+    display: none; 
+  }
+  .box3{
+    display: none;
+  }
+.xx1{
+    margin-left: -50px;
+}
+.xx2{
+    margin-left: -50px;
+}
+.xx3{
+    margin-left: -50px;
+}
+.sim{
+    display: none;
+}
+.xx4{
+    margin-top: 100px;
+}
+.z4{
+  display: none;
+}
+.z7{
+    margin-left: -8px;
+}
+  .a5 {
+    font-size: 24px;
+    margin-top: -300px;
+    margin-left: 20px;
+    width: 90%;
+  }
+  .search {
+    flex-direction: column;
+    width: 90%;
+    margin: 20px auto;
+  }
+.x6{
+    margin-left: -0px;
+
+}
+.x8{
+    margin-top: 20px;
+}
+.c1{
+    margin-top: 10px;
+}
+.c8{
+    margin-top: -290px;
+    position: absolute;
+}
+.c5{
+    margin-left: 100px;
+}
+.x7{
+    margin-left: 0px;
+}
+  .field {
+    width: 100%;
+  }
+
+  .btn {
+    width: 100%;
+  }
+
+  .box1 {
+    width: 90%;
+    margin: 40px auto 0;
+    display: block;
+  }
+
+  .box2 {
+    display: none;
+  }
+
+  .box3,
+  .box4,
+  .box5,
+  .box6 {
+    margin-left: 20px;
+    width: 90%;
+  }
+
+  .box4 {
+    font-size: 22px;
+  }
+
+  .box5 {
+    font-size: 16px;
+  }
+
+
+  .text7 {
+    height: auto;
+    padding-bottom: 40px;
+  }
+
+  .text3,
+  .text4,
+  .text5,
+  .text6 {
+    display: none;
+  }
+
+  .sim {
+    margin-left: 20px;
+  }
+
+
+  .z1 {
+    flex-direction: column;
+    margin-left: 0;
+    align-items: center;
+  }
+
+  .sim8 {
+    margin: 40px auto;
+  }
+
+
+  .z3 {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .z2 {
+    width: 95%;
+    flex-direction: column;
+    height: auto;
+  }
+
+  .xob1 {
+    width: 100%;
+    height: auto;
+  }
+
+  .d1 {
+    gap: 40px;
+    margin-top: 20px;
+  }
+
+  .z4 {
+    margin: 40px auto;
+  }
+
+
+  .x1,
+  .x2 {
+    margin-left: 0;
+    text-align: center;
+  }
+
+  .x1 img,
+  .x2 img {
+    width: 90%;
+    margin-top: 15px;
+  }
+
+  .x3 {
+    margin: 30px auto;
+    display: block;
+  }
+
+
+  .x5 {
+    position: static;
+    width: 90%;
+    height: auto;
+    margin: 40px auto;
+    padding: 20px;
+  }
+
+  .x8,
+  .x9,
+  .c1 {
+    margin-left: 0;
+  }
+
+  .x9 {
+    width: 100%;
+    margin-top: 10px;
+  }
+
+
+  .x4 {
+    height: auto;
+    padding-bottom: 40px;
+  }
+
+  .c2,
+  .c3,
+  .c4,
+  .c5,
+  .c6 {
+    margin-left: 20px;
+  }
+
+  .c8 {
+    margin-left: 20px;
+    margin-top: 40px;
+  }
+}
