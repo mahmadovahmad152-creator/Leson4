@@ -247,3 +247,34 @@ body {
     color: #fff;margin-left: 650px;
     margin-top: 50px;
 }
+.z5{
+    text-align: center;
+    color: #F2BE22;
+    font-size: 25px;
+    margin-top: 50px;
+}
+.z6{
+    text-align: center;
+    font-size: 30px;
+}
+.z7{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+.x1{
+   
+    gap: 50px;
+    margin-left: 150px;
+}
+.x2{
+    margin-left: 169px;
+    margin-top: 20px;
+}
+.x3{
+    width: 200px;
+height: 30px;
+background-color: #1A3E3E;
+color: #fff;
+margin-left: 650px;
+margin-top: 20px;
+}
